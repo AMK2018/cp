@@ -1,0 +1,12 @@
+[23-Nov-2017 16:31:35 America/New_York] PHP Fatal error:  Call to a member function getAll() on null in /home/demexicoamicus/control-personal.amicus-marketing.com/php/API/v1/index.php on line 264
+[27-Nov-2017 11:42:50 America/New_York] PHP Fatal error:  Call to undefined function deleteDir() in /home/demexicoamicus/control-personal.amicus-marketing.com/php/API/include/DbHandler.php on line 324
+[27-Nov-2017 12:24:06 America/New_York] PHP Fatal error:  Call to undefined function deleteDir() in /home/demexicoamicus/control-personal.amicus-marketing.com/php/API/include/DbHandler.php on line 324
+[27-Nov-2017 12:25:45 America/New_York] PHP Fatal error:  Call to undefined function deleteDir() in /home/demexicoamicus/control-personal.amicus-marketing.com/php/API/include/DbHandler.php on line 324
+[27-Nov-2017 12:27:20 America/New_York] PHP Fatal error:  Call to undefined function deleteDir() in /home/demexicoamicus/control-personal.amicus-marketing.com/php/API/include/DbHandler.php on line 324
+[27-Nov-2017 12:30:54 America/New_York] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/demexicoamicus/control-personal.amicus-marketing.com/php/API/include/DbHandler.php on line 324
+[27-Nov-2017 12:31:17 America/New_York] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/demexicoamicus/control-personal.amicus-marketing.com/php/API/include/DbHandler.php on line 324
+[27-Nov-2017 12:34:17 America/New_York] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/demexicoamicus/control-personal.amicus-marketing.com/php/API/include/DbHandler.php on line 324
+[27-Nov-2017 12:34:18 America/New_York] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/demexicoamicus/control-personal.amicus-marketing.com/php/API/include/DbHandler.php on line 324
+[27-Nov-2017 12:34:20 America/New_York] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/demexicoamicus/control-personal.amicus-marketing.com/php/API/include/DbHandler.php on line 324
+[27-Nov-2017 12:34:53 America/New_York] PHP Fatal error:  Call to undefined function deleteDir() in /home/demexicoamicus/control-personal.amicus-marketing.com/php/API/include/DbHandler.php on line 324
+[27-Nov-2017 12:45:05 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/demexicoamicus/control-personal.amicus-marketing.com/php/API/include/DbHandler.php on line 332
