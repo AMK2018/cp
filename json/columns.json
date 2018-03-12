@@ -1,0 +1,7 @@
+[
+  {"name":"idReporte","title":"ID Reporte"},
+  {"name":"idUsuario","title":"ID Usuario", "breakpoints":"xs sm"},
+  {"name":"marca","title":"Marca"},
+  {"name":"fecha","title":"Fecha","breakpoints":"xs sm"},
+  {"name":"info", "title":"Info"}
+]
